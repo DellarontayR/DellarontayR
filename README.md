@@ -6,7 +6,7 @@ As a Stanford University educated senior level software developer who has been w
 
 My work at the Stanford High Performance Computing Center provides me with a central background in linux parallel programming and applications. As I continue my Computer Science concentration in Artificial Intelligence, I become more interested in utilizing decision agents to provide intelligent responses to an organization’s new problems.
 
-As a Full-Stack developer I am interested in continuously developing my web application and Javascript/Typescript skills. I’ve worked with Angular 2+ and have further assimilated into Angular 6+ in an SAAS e-commerce MEAN; MongoDB, ExpressJS, Angularjs, NodeJS; stack application.
+As a Full-Stack developer I am interested in continuously developing my web application and Javascript/Typescript skills. I’ve worked with Angular 1.x and have further assimilated into Angular 6+ in a SAAS e-commerce MEAN; MongoDB, ExpressJS, Angularjs, NodeJS; stack application.
 
 Two past internship experiences at Microsoft and experience with a Co-Founded startup enable me to handle projects with a great amount of autonomy and responsibility, make use of nearby talent for assistance, and plan for blocking issues. Years of experience in Object Oriented and functional programming enables me to pick up bugs and features for large deployed applications.
 
