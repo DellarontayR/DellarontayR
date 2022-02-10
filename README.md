@@ -10,10 +10,10 @@ As a Full-Stack developer I am interested in continuously developing my web appl
 
 Two past internship experiences at Microsoft and experience with a Co-Founded startup enable me to handle projects with a great amount of autonomy and responsibility, make use of nearby talent for assistance, and plan for blocking issues. Years of experience in Object Oriented and functional programming enables me to pick up bugs and features for large deployed applications.
 
-I excel at:
-● Collaborating with and assisting others with work to ensure that multiple solutions with disjointed resources aren’t created.
-● Taking responsibility for large deployable security features to improve the standard development pipeline and ensure guidelines are met for code releases.
-● Personally handling and deploying large applications.
+I excel at:  
+● Collaborating with and assisting others with work to ensure that multiple solutions with disjointed resources aren’t created.  
+● Taking responsibility for large deployable security features to improve the standard development pipeline and ensure guidelines are met for code releases.  
+● Personally handling and deploying large applications.  
 
 Please review my resume and LinkedIn for any additional details regarding my expertise and
 career achievements.
