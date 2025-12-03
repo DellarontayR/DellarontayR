@@ -18,13 +18,14 @@ I excel at:
 Please review my resume and LinkedIn for any additional details regarding my expertise and
 career achievements.
 
-[My LinkedIn](https://www.linkedin.com/in/dellarontay/)
+[LinkedIn](https://www.linkedin.com/in/dellarontay/)
 
-[My Portfolio](https://dellarontayr.github.io/)
+[Portfolio](https://dellarontayr.github.io/)
 
 Thank you for your time and consideration.
 
 Sincerely,
+
 Dellarontay Readus
 
 
